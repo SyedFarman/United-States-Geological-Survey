@@ -1,7 +1,6 @@
-# United-States-Geological-Survey!
+# United-States-Geological-Survey
 
-[Earth Quake - Street View](https://user-images.githubusercontent.com/24644072/219534217-99e1b7ac-5e7b-4d4d-9a71-cd87606a7b53.PNG)
+![Earth Quake - Street View](https://user-images.githubusercontent.com/24644072/219534369-cde7457c-1b37-4211-b12a-3ccf7ed0b03c.PNG)
 
 
-![Earth Quake - Satellite View](https://user-images.githubusercontent.com/24644072/219534251-e7c8cea0-9a39-4119-ae5c-5502b787bbb0.PNG)
-
+![Earth Quake - Satellite View](https://user-images.githubusercontent.com/24644072/219534381-d3c87cfe-53d9-44a9-912d-c891fa97eb0e.PNG)
