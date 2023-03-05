@@ -1,9 +1,4 @@
 # United-States-Geological-Survey
-
-## EarthQuake Map
-
-## Overview & Purpose
-
 This project aims to create interactive data visualizations using the latest earthquake geoJSON data from the US Geological Survey website. To achieve this, we use JavaScript and D3.js libraries to retrieve the geographic coordinates and magnitudes of earthquakes that occurred in the last seven days from the USGS website via a URL for GeoJSON earthquake data. We then use the Leaflet library to plot this data on a Mapbox map through an API request to create interactive features for our visualizations.
 
 ## Tools Used
