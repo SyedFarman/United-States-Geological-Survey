@@ -13,5 +13,3 @@ This project aims to create interactive data visualizations using the latest ear
 
 
 ![Earth Quake - Satellite View](https://user-images.githubusercontent.com/24644072/219534381-d3c87cfe-53d9-44a9-912d-c891fa97eb0e.PNG)
-
-
